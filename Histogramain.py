@@ -64,11 +64,11 @@ def seleccionar_imagen():
 
     # Selección de archivo de imagen según la opción
     if opcion_imagen == "1":
-        return 'contrasteAlto.jpg'
+        return 'altoContraste2.jpg'
     elif opcion_imagen == "2":
-        return 'bajoContraste.jpg'
+        return 'conlow.jpg'
     elif opcion_imagen == "3":
-        return 'altaIluminacion.jpg'
+        return 'altaIluminacion2.jpg'
     elif opcion_imagen == "4":
         return 'bajaIluminacion.jpg'
     else:
